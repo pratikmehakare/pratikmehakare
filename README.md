@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Own Projects**
 
-- 🌱 I’m currently learning **Technologies**
+- 🌱 I’m currently learning **AI Technologies**
 
 - 💬 Ask me about **MERN**
 
